@@ -1,0 +1,28 @@
+{
+  "name": "aria-description-in-gallery",
+  "version": "0.0.1",
+  "description": "Display descriptions as aria-label in the WordPress-native gallery shortcode display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ucf",
+    "cah",
+    "wordpress",
+    "accessibility",
+    "aria-label",
+    "description",
+    "plugin",
+    "florida-review"
+  ],
+  "author": "Mike W. Leavitt",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-terser": "^1.2.0"
+  }
+}
